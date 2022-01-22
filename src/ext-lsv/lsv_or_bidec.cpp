@@ -9,6 +9,7 @@
 #include "base/main/mainInt.h"
 #include "misc/util/abc_global.h"
 #include "map/mio/mio.h"
+#include <assert.h>
 
 using namespace std;
 
